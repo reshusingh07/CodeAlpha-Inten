@@ -1,2 +1,2 @@
-# CodeAlpha-Inten
-All the project I did during my Intenship is here !!
+# CodeAlpha-Internship
+All the project I did during my Internship is here !!
