@@ -1,2 +1,2 @@
 # CodeAlpha-Inten
-All the project that I did is here !!
+All the project I did during my Intenship is here !!
